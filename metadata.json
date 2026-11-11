@@ -1,0 +1,6 @@
+{
+  "name": "CarGuard",
+  "description": "Consumer watchdog and multi-currency estimate auditor that detects dealership service upsells, benchmarks fair market repair rates, and verifies official manufacturer maintenance schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
